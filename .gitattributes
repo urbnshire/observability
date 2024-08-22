@@ -5,7 +5,9 @@
 # Exclude Markdown files from being counted as documentation
 
 # JSON
-*.json linguist-detectable=true   # Include JSON files in language detection
+*.json linguist-detectable=true   
+# Include JSON files in language detection
 
 # YAML
-*.yml linguist-detectable=true    # Include YAML files in language detection
+*.yml linguist-detectable=true    
+# Include YAML files in language detection
