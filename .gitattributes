@@ -1,6 +1,8 @@
 # Markdown
-*.md linguist-detectable=true   # Ensure Markdown files are considered in language detection
-*.md linguist-documentation=false  # Exclude Markdown files from being counted as documentation
+*.md linguist-detectable=true   
+# Ensure Markdown files are considered in language detection
+*.md linguist-documentation=false  
+# Exclude Markdown files from being counted as documentation
 
 # JSON
 *.json linguist-detectable=true   # Include JSON files in language detection
