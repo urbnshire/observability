@@ -1,10 +1,1 @@
-{
-  "schemaVersion": 1,
-  // The version of the schema being used for this configuration.
-  "label": "response time 24h",
-  // The text label that will be displayed on the badge.
-  "message": "195 ms",
-  // The value or status message that will be shown on the badge.
-  "color": "brightgreen"
-  // The color of the badge, which in this case is a bright green.
-}
+{"schemaVersion":1,"label":"response time 24h","message":"195 ms","color":"brightgreen"}
