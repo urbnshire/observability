@@ -14,7 +14,7 @@ sites:
 
 status-website:
   name: observability
-  theme: night
+  theme: ocean
   baseUrl: /observability
   logoUrl: https://raw.githubusercontent.com/urbnshire/observability/master/assets/upptime-icon.svg
   navbar:
