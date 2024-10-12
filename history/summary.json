@@ -4,18 +4,20 @@
     "url": "https://designova.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/designova.netlify.app.ico",
     "slug": "designova",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 158,
-    "timeDay": 162,
-    "timeWeek": 120,
-    "timeMonth": 153,
-    "timeYear": 158,
-    "dailyMinutesDown": {}
+    "time": 157,
+    "timeDay": 126,
+    "timeWeek": 116,
+    "timeMonth": 151,
+    "timeYear": 157,
+    "dailyMinutesDown": {
+      "2024-10-12": 0
+    }
   },
   {
     "name": "Fewv",
