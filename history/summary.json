@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/designova.netlify.app.ico",
     "slug": "designova",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
-    "time": 163,
-    "timeDay": 45,
-    "timeWeek": 184,
-    "timeMonth": 169,
-    "timeYear": 163,
+    "uptimeYear": "99.99%",
+    "time": 162,
+    "timeDay": 71,
+    "timeWeek": 117,
+    "timeMonth": 168,
+    "timeYear": 162,
     "dailyMinutesDown": {
       "2024-10-12": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 219,
-    "timeDay": 83,
-    "timeWeek": 157,
-    "timeMonth": 214,
-    "timeYear": 219,
+    "time": 217,
+    "timeDay": 114,
+    "timeWeek": 156,
+    "timeMonth": 210,
+    "timeYear": 217,
     "dailyMinutesDown": {}
   }
 ]
