@@ -4,18 +4,19 @@
     "url": "https://designova.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/designova.netlify.app.ico",
     "slug": "designova",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 140,
-    "timeDay": 66,
-    "timeWeek": 81,
-    "timeMonth": 153,
+    "timeDay": 173,
+    "timeWeek": 106,
+    "timeMonth": 157,
     "timeYear": 140,
     "dailyMinutesDown": {
+      "2025-02-18": 0,
       "2024-10-12": 17
     }
   },
